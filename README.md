@@ -4,7 +4,7 @@ A new concept for LLM communication to revolutionize the way LLMs interact with 
 
 ## Abstract ##
 
-The rapid advancement of Large Language Models (LLMs) has revolutionized the way we interact with digital information. These powerful tools have enabled us to extract valuable insights and knowledge from the vast expanse of the internet. However, current web scraping methods using LLMs are limited in their ability to accurately and efficiently extract data from websites. In this paper, we propose a new concept for LLM communication, dubbed LLM feeds, and a novel LLMT standard protocol, to revolutionize the way LLMs interact with websites.
+The rapid advancement of Large Language Models (LLMs) has revolutionized the way we interact with digital information. These powerful tools have enabled us to extract valuable insights and knowledge from the vast expanse of the internet. However, current web scraping methods using LLMs are limited in their ability to accurately and efficiently extract data from websites. In this paper, we propose a new concept for LLM communication, dubbed LLM feeds, and a novel LLMT (Large Language Model Talk) standard protocol, to revolutionize the way LLMs interact with websites.
 
 The importance of LLMs in today's digital landscape cannot be overstated. These models have enabled the automation of numerous tasks, from data extraction to natural language processing. However, the limitations of current web scraping methods using LLMs are well-documented. Crawling websites is time-consuming, resource-intensive, and often results in incomplete or inaccurate data. Furthermore, many websites have implemented measures to prevent web scraping, making it increasingly difficult to extract data.
 

@@ -1,6 +1,7 @@
 # Large Language Model Talk
 A new concept for LLM communication to revolutionize the way LLMs interact with websites
 
+![llmtalk-logo](https://github.com/yipman/llmt-protocol/assets/547379/0cc5f891-e9dd-44b9-801c-ce8d32f4083e)
 
 ## Abstract ##
 

@@ -1,7 +1,7 @@
 # Large Language Model Talk
 A new concept for LLM communication to revolutionize the way LLMs interact with websites
 
-[Assets](https://github.com/yipman/llmt-protocol/blob/main/assets/assets.md) | [UI Example](https://github.com/yipman/llmt-protocol/blob/main/UI-example.png) | [Demo (Coming soon] | [Implementation examples (Coming soon)] | [Compatible websites (add yours!)](https://github.com/yipman/llmt-protocol/blob/main/compatible-websites.md)
+[Assets](https://github.com/yipman/llmt-protocol/blob/main/assets/assets.md) | [UI Example](https://github.com/yipman/llmt-protocol/blob/main/UI-example.png) | LLM-to-LLM Example (Coming soon) | [Demo (Coming soon] | [Implementation examples (Coming soon)] | [Compatible websites (add yours!)](https://github.com/yipman/llmt-protocol/blob/main/compatible-websites.md)
 
 ![llmtalk-logo](https://github.com/yipman/llmt-protocol/assets/547379/0cc5f891-e9dd-44b9-801c-ce8d32f4083e)
 
